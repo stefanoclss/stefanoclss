@@ -21,11 +21,9 @@
   &nbsp;&middot;&nbsp;
   <a href="#the-sovereign-harness-paradigm"><strong>Architecture</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="#core-architectural-pillars"><strong>Engineering Pillars</strong></a>
+  <a href="#core-architectural-pillars"><strong>Governing Principles</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="#selected-public-work--empirical-testbeds"><strong>Selected Work</strong></a>
-  &nbsp;&middot;&nbsp;
-  <a href="#systems--technical-landscape"><strong>Stack</strong></a>
+  <a href="#empirical-benchmark"><strong>Empirical Benchmark</strong></a>
 </p>
 
 </div>
@@ -36,7 +34,7 @@
 
 > **Frontier AI capability is rarely bottlenecked by model weights alone—it is governed by the deterministic harness, verification boundaries, and execution sovereignty wrapped around them.**
 
-I design and study **sovereign, local-first AI architectures**, **neuro-symbolic execution harnesses**, and **closed-loop recursive self-improvement systems**. The governing discipline is simple: pair open-weights intelligence with locked-down analytical kernels, structured tool protocols, and strict out-of-sample evaluation gatekeepers so every autonomous step is measurable, auditable, and production-grade.
+I design and study **sovereign, local-first AI architectures**, **neuro-symbolic execution harnesses**, and **closed-loop recursive self-improvement systems**. The governing principle is discipline over black-box generation: every autonomous step must be bounded by deterministic verification, strict out-of-sample gatekeeping, and transparent engineering lineage.
 
 ---
 
@@ -58,54 +56,15 @@ I design and study **sovereign, local-first AI architectures**, **neuro-symbolic
   <img alt="Exhibit 02 — Four Non-Negotiable Architectural Pillars" src="assets/pillars-dark.svg" width="100%">
 </picture>
 
-<br/>
-
-<details>
-<summary><strong>Architectural Operating Spec (YAML)</strong></summary>
-
-```yaml
-architect:
-  name: Stefano Claes
-  discipline: AI Systems Architecture
-
-systems_thesis:
-  premise: "Intelligence scales with weights; reliability scales with the harness."
-  sovereignty: local-first, air-gapped capable, zero external data egress
-  verification: out-of-sample gatekeeping, anti-leakage, anti-reward-hacking
-  lineage: atomic single-module git commits, deterministic reproducibility
-
-engineering_non_negotiables:
-  - zero_pickle_artifacts: CWE-502 compliant serialization (JSON / text / safe arrays)
-  - zero_trust_sandboxing: locked analytical kernels and isolated execution runtimes
-  - human_auditability: clean modular Python over opaque black-box pipelines
-  - pareto_discipline: explicit accuracy-vs-latency deployment benchmarking
-```
-
-</details>
-
 ---
 
-## Selected Public Work & Empirical Testbeds
+## Empirical Benchmark
 
-Public repositories on this profile act as **verifiable empirical testbeds** spanning agentic systems, closed-loop verifiable ML, computer vision, foundation models, and mathematical optimization:
+Public repositories on this profile serve as **verifiable empirical benchmarks** of closed-loop autonomous engineering—prioritizing out-of-sample rigor, transparent commit-by-commit lineage, and auditable delivery over opaque outputs.
 
-| Domain | Repository | Engineering Focus |
-| :--- | :--- | :--- |
-| **Autonomous Clinical Agents** | [`Full-Lifecycle_Health_Companion`](https://github.com/stefanoclss/Full-Lifecycle_Health_Companion) | Closed-loop multi-agent healthcare architecture structured around full-lifecycle patient workflows and safety-grounded reasoning. |
-| **Verifiable Closed-Loop ML & Equity** | [`CIBMTR-Equity-in-Post-HCT-Survival-Predictions`](https://github.com/stefanoclss/CIBMTR-Equity-in-Post-HCT-Survival-Predictions) | End-to-end survival modeling testbed demonstrating strict out-of-fold validation, multi-family ensembling, subgroup equity calibration, atomic commit lineage (`git log -p`), and zero-pickle (`CWE-502`) inference. |
-| **Computer Vision Consensus Fusion** | [`ensemble-objdet`](https://github.com/stefanoclss/ensemble-objdet) | Multi-model bounding-box fusion combining heterogeneous object detectors into a single higher-precision detection output. |
-| **Foundation Models & Optimization** | [`tabPFN_VN2`](https://github.com/stefanoclss/tabPFN_VN2) &middot; [`Linear-programming_task`](https://github.com/stefanoclss/Linear-programming_task) | In-context learning foundation-model benchmarking and constrained mathematical optimization workflows. |
-
----
-
-## Systems & Technical Landscape
-
-| Architectural Layer | Core Technologies & Paradigms |
+| Benchmark | Governing Principles Demonstrated |
 | :--- | :--- |
-| **Harnesses & Agent Protocols** | Neuro-Symbolic Control Loops, Model Context Protocol (MCP), Structured Tool Calling, Composable Topologies, Evolutionary Git Lineage |
-| **Sovereign Compute & Kernels** | Open-Weights Local Runtimes (`Ollama`, `vLLM`, `llama.cpp`), Containerized Air-Gapped Sandboxing, Zero-Copy Analytical Engines (`Polars`, `DuckDB`, `PyArrow`) |
-| **Modeling & Verification** | Multi-Family Ensembling, Neural & Statistical Modeling, Survival & Quantitative Optimization, Out-of-Sample Evaluation Gatekeepers, Subgroup Equity |
-| **Production Systems & Governance** | Python (`mypy --strict`, `Ruff`, `pytest`), `FastAPI` / SSE Streaming, TypeScript & React, C / Systems Fundamentals, Zero-Pickle Serialization (`CWE-502`), Automated Quality Gates |
+| [**CIBMTR — Equity in Post-HCT Survival Predictions**](https://github.com/stefanoclss/CIBMTR-Equity-in-Post-HCT-Survival-Predictions) | Closed-loop autonomous evolution governed by strict out-of-sample validation integrity, subgroup equity awareness, atomic single-module Git lineage (`git log -p`), and verifiable zero-pickle delivery. |
 
 ---
 
