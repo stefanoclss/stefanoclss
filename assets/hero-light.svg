@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 304" width="1200" height="304" role="img" aria-label="Stefano Claes — AI Systems Architect">
+  <title>Stefano Claes — AI Systems Architect</title>
+  <defs>
+    <linearGradient id="bg-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F6F9FC"/>
+    </linearGradient>
+    <linearGradient id="bar-light" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2251FF"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <radialGradient id="glow-light" cx="84%" cy="32%" r="48%">
+      <stop offset="0%" stop-color="#2251FF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#2251FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid-light" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#051C2C" stroke-width="0.7" stroke-opacity="0.05"/>
+    </pattern>
+    <style>
+      .flow { stroke-dasharray: 6 6; animation: dash 14s linear infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; }
+      @keyframes dash { to { stroke-dashoffset: -120; } }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="303" rx="12" fill="url(#bg-light)" stroke="#CBD5E1"/>
+  <rect x="1" y="1" width="1198" height="302" rx="12" fill="url(#grid-light)"/>
+  <rect x="1" y="1" width="1198" height="302" rx="12" fill="url(#glow-light)"/>
+
+  <!-- Signature vertical rule -->
+  <rect x="52" y="48" width="4" height="206" rx="2" fill="url(#bar-light)"/>
+
+  <!-- Left editorial typography -->
+  <text x="78" y="69" fill="#0284C7" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="600" letter-spacing="2.2">AI SYSTEMS ARCHITECTURE  //  SOVEREIGN AUTONOMOUS INTELLIGENCE</text>
+  <text x="78" y="130" fill="#051C2C" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.1">Stefano Claes</text>
+  <text x="78" y="169" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="400">Architecting sovereign local-first AI systems, neuro-symbolic execution harnesses,</text>
+  <text x="78" y="195" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="400">and closed-loop recursive self-improvement grounded in deterministic verification.</text>
+
+  <rect x="78" y="226" width="120" height="28" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><circle cx="92" cy="240" r="3.5" fill="#059669" class="pulse"/><text x="104" y="244" fill="#0F172A" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.9" text-anchor="start">SOVEREIGN AI</text><rect x="208" y="226" width="162" height="28" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><text x="289.0" y="244" fill="#0F172A" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.9" text-anchor="middle">AGENTIC HARNESSES</text><rect x="380" y="226" width="194" height="28" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><text x="477.0" y="244" fill="#0F172A" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.9" text-anchor="middle">RECURSIVE VERIFICATION</text><rect x="584" y="226" width="174" height="28" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/><text x="671.0" y="244" fill="#0F172A" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.9" text-anchor="middle">ZERO-TRUST · CWE-502</text>
+
+  <!-- Right architectural closed-loop topology panel -->
+  <rect x="798" y="34" width="360" height="236" rx="10" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  <text x="818" y="57" fill="#64748B" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="1.4">CLOSED-LOOP CONTROL TOPOLOGY</text>
+  <circle cx="1138" cy="53" r="3.5" fill="#059669" class="pulse"/>
+
+  <!-- Connecting orbital loop -->
+  <rect x="886" y="96" width="184" height="124" rx="16" fill="none" stroke="#94A3B8" stroke-width="1.5"/>
+  <rect x="886" y="96" width="184" height="124" rx="16" fill="none" stroke="#0284C7" stroke-width="1.6" class="flow"/>
+
+  <!-- Center recursive core -->
+  <circle cx="978" cy="158" r="32" fill="#FFFFFF" stroke="#2251FF" stroke-width="1.6"/>
+  <circle cx="978" cy="158" r="25" fill="none" stroke="#0284C7" stroke-width="0.9" stroke-opacity="0.5"/>
+  <text x="978" y="154" fill="#051C2C" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">G<tspan dy="2.5" font-size="7.5">t</tspan><tspan dy="-2.5"> &#x2192; G</tspan><tspan dy="2.5" font-size="7.5">t+1</tspan></text>
+  <text x="978" y="170" fill="#64748B" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="7.8" letter-spacing="0.9" text-anchor="middle">VERIFIED</text>
+
+  <!-- Node 1: Top -->
+  <rect x="911" y="74" width="134" height="38" rx="6" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1"/>
+  <text x="978" y="91" fill="#051C2C" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.8" text-anchor="middle">LOCAL WEIGHTS</text>
+  <text x="978" y="104" fill="#64748B" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" text-anchor="middle">Sovereign · Air-Gapped</text>
+
+  <!-- Node 2: Right -->
+  <rect x="1032" y="139" width="112" height="38" rx="6" fill="#FFFFFF" stroke="#2251FF" stroke-width="1.2"/>
+  <text x="1088" y="156" fill="#051C2C" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.8" text-anchor="middle">HARNESS</text>
+  <text x="1088" y="169" fill="#64748B" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" text-anchor="middle">Kernels · MCP</text>
+
+  <!-- Node 3: Bottom -->
+  <rect x="911" y="204" width="134" height="38" rx="6" fill="#FFFFFF" stroke="#059669" stroke-width="1.2"/>
+  <text x="978" y="221" fill="#051C2C" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.8" text-anchor="middle">GATEKEEPER</text>
+  <text x="978" y="234" fill="#64748B" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" text-anchor="middle">OOS · Anti-Leakage</text>
+
+  <!-- Node 4: Left -->
+  <rect x="812" y="139" width="112" height="38" rx="6" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1"/>
+  <text x="868" y="156" fill="#051C2C" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.8" text-anchor="middle">LINEAGE</text>
+  <text x="868" y="169" fill="#64748B" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" text-anchor="middle">Atomic Git · JSON</text>
+</svg>
