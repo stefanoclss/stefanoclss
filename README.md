@@ -23,7 +23,7 @@
   &nbsp;&middot;&nbsp;
   <a href="#core-principles"><strong>Core Principles</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="#featured-case-study"><strong>Featured Case Study</strong></a>
+  <a href="#featured-case-studies"><strong>Featured Case Studies</strong></a>
 </p>
 
 </div>
@@ -58,13 +58,14 @@ Organizations rarely struggle to build AI prototypes; they struggle to trust the
 
 ---
 
-## Featured Case Study
+## Featured Case Studies
 
-Selected public work demonstrating how autonomous AI systems can meet institutional standards for accuracy, fairness, transparency, and full auditability.
+Selected public case studies across distinct high-stakes domains demonstrating how autonomous AI systems can meet institutional standards for accuracy, fairness, transparency, and full auditability.
 
-| Case Study | Executive Value & Governance Demonstrated |
-| :--- | :--- |
-| [**CIBMTR — Equity in Post-HCT Survival Predictions**](https://github.com/stefanoclss/CIBMTR-Equity-in-Post-HCT-Survival-Predictions) | Autonomous, step-by-step model improvement designed for high-stakes clinical risk decisions—combining rigorous independent validation, fairness across patient populations, a complete change-by-change audit trail, and safe, portable deployment with zero vendor lock-in. |
+| Domain | Case Study | Executive Value & Governance Demonstrated |
+| :--- | :--- | :--- |
+| **Healthcare & Clinical Risk** | [**CIBMTR — Equity in Post-HCT Survival Predictions**](https://github.com/stefanoclss/CIBMTR-Equity-in-Post-HCT-Survival-Predictions) | Autonomous, step-by-step model improvement built for high-stakes clinical risk decisions—combining rigorous independent validation, fairness across patient populations, a complete change-by-change audit trail, and safe, portable deployment with zero vendor lock-in. |
+| **Energy & Subsurface Operations** | [**ROGII — Wellbore Geology Prediction**](https://github.com/stefanoclss/ROGII-Wellbore-Geology-Prediction) | Autonomous subsurface geology forecasting engineered for drilling and geosteering decisions—delivering disciplined incremental accuracy gains, strict independent validation, a complete change-by-change audit trail, and safe, portable deployment without vendor lock-in. |
 
 ---
 
