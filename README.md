@@ -17,28 +17,28 @@
 </p>
 
 <p>
-  <a href="#systems-thesis"><strong>Systems Thesis</strong></a>
+  <a href="#executive-perspective"><strong>Executive Perspective</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="#the-sovereign-harness-paradigm"><strong>Architecture</strong></a>
+  <a href="#how-it-works"><strong>How It Works</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="#core-architectural-pillars"><strong>Governing Principles</strong></a>
+  <a href="#core-principles"><strong>Core Principles</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="#empirical-benchmark"><strong>Empirical Benchmark</strong></a>
+  <a href="#featured-case-study"><strong>Featured Case Study</strong></a>
 </p>
 
 </div>
 
 ---
 
-## Systems Thesis
+## Executive Perspective
 
-> **Frontier AI capability is rarely bottlenecked by model weights alone—it is governed by the deterministic harness, verification boundaries, and execution sovereignty wrapped around them.**
+> **Lasting AI advantage does not come from larger models alone—it comes from the discipline, governance, and independence built around them.**
 
-I design and study **sovereign, local-first AI architectures**, **neuro-symbolic execution harnesses**, and **closed-loop recursive self-improvement systems**. The governing principle is discipline over black-box generation: every autonomous step must be bounded by deterministic verification, strict out-of-sample gatekeeping, and transparent engineering lineage.
+Organizations rarely struggle to build AI prototypes; they struggle to trust them in high-stakes decisions. My work focuses on **sovereign, self-improving AI systems** that remain fully within an organization's control—turning complex data into transparent, verifiable, and repeatable business value without sacrificing privacy, security, or accountability.
 
 ---
 
-## The Sovereign Harness Paradigm
+## How It Works
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/harness-loop-dark.svg">
@@ -48,7 +48,7 @@ I design and study **sovereign, local-first AI architectures**, **neuro-symbolic
 
 <br/>
 
-## Core Architectural Pillars
+## Core Principles
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pillars-dark.svg">
@@ -58,13 +58,13 @@ I design and study **sovereign, local-first AI architectures**, **neuro-symbolic
 
 ---
 
-## Empirical Benchmark
+## Featured Case Study
 
-Public repositories on this profile serve as **verifiable empirical benchmarks** of closed-loop autonomous engineering—prioritizing out-of-sample rigor, transparent commit-by-commit lineage, and auditable delivery over opaque outputs.
+Selected public work demonstrating how autonomous AI systems can meet institutional standards for accuracy, fairness, transparency, and full auditability.
 
-| Benchmark | Governing Principles Demonstrated |
+| Case Study | Executive Value & Governance Demonstrated |
 | :--- | :--- |
-| [**CIBMTR — Equity in Post-HCT Survival Predictions**](https://github.com/stefanoclss/CIBMTR-Equity-in-Post-HCT-Survival-Predictions) | Closed-loop autonomous evolution governed by strict out-of-sample validation integrity, subgroup equity awareness, atomic single-module Git lineage (`git log -p`), and verifiable zero-pickle delivery. |
+| [**CIBMTR — Equity in Post-HCT Survival Predictions**](https://github.com/stefanoclss/CIBMTR-Equity-in-Post-HCT-Survival-Predictions) | Autonomous, step-by-step model improvement designed for high-stakes clinical risk decisions—combining rigorous independent validation, fairness across patient populations, a complete change-by-change audit trail, and safe, portable deployment with zero vendor lock-in. |
 
 ---
 
