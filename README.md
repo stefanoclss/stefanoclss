@@ -66,6 +66,8 @@ Selected public case studies across distinct high-stakes domains demonstrating h
 | :--- | :--- | :--- |
 | **Healthcare & Clinical Risk** | [**CIBMTR — Equity in Post-HCT Survival Predictions**](https://github.com/stefanoclss/CIBMTR-Equity-in-Post-HCT-Survival-Predictions) | Autonomous, step-by-step model improvement built for high-stakes clinical risk decisions—combining rigorous independent validation, fairness across patient populations, a complete change-by-change audit trail, and safe, portable deployment with zero vendor lock-in. |
 | **Energy & Subsurface Operations** | [**ROGII — Wellbore Geology Prediction**](https://github.com/stefanoclss/ROGII-Wellbore-Geology-Prediction) | Autonomous subsurface geology forecasting engineered for drilling and geosteering decisions—delivering disciplined incremental accuracy gains, strict independent validation, a complete change-by-change audit trail, and safe, portable deployment without vendor lock-in. |
+| **Probabilistic Forecasting & Risk** | [**March Machine Learning Mania 2026**](https://github.com/stefanoclss/March-Machine-Learning-Mania-2026) | Calibrated outcome-probability forecasting across high-uncertainty matchups—emphasizing decision reliability under uncertainty, strict independent validation, full change-by-change traceability, and transparent, portable delivery. |
+| **Life Sciences & Behavioral Analytics** | [**MABe — Mouse Behavior Detection**](https://github.com/stefanoclss/MABe-Mouse-Behavior-Detection) | Autonomous behavioral event detection from complex time-evolving observation streams—combining systematic iterative refinement, rigorous independent validation, transparent audit trails, and self-contained reproducible delivery. |
 
 ---
 
